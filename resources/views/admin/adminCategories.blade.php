@@ -66,7 +66,7 @@
                             @csrf
                             @method('DELETE')
                             <span class="del">
-                                <button type="submit" class="inline-flex items-center px-3 py-2 text-sm leading-4 font-medium rounded-md text-white-500 dark:text-gray-400 bg-dark dark:bg-gray-800 hover:text-gray-700 dark:hover:text-gray-300 focus:outline-none transition ease-in-out duration-150" onclick="return confirm('Are you sure?')">Delete</button>
+                                <button type="submit" class="inline-flex items-center px-3 py-2 text-sm leading-4 font-medium rounded-md text-white-500 dark:text-gray-400 bg-dark dark:bg-gray-800 hover:text-gray-700 dark:hover:text-gray-300 focus:outline-none transition ease-in-out duration-150" onclick="return confirm('Etes-vous sûre ?')">Delete</button>
                             </span>
                         </form>
                     </td>
